@@ -4,9 +4,9 @@
 
 <br/>
 
-<!-- Animated Typing Text for System Status & Identity -->
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=SYSTEM_STATUS%3A++ONLINE;Hi%2C+I'm+Shaan;Software+Developer+%26+ECE+Student;Engineering+High-Performance+ML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=SYSTEM_STATUS%3A++ONLINE;Hi%2C+I'm+Shaan;Software+Developer+%26+ECE+Student;Engineering+High-Performance+ML" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,6 +23,11 @@
 
 <br/>
 <br/>
+<div align="center">
+  <img src="Running pixel dog.gif" alt="Running Pixel Dog" width="150" />
+</div>
+<br/>
+<br>
 
 ## 🚀 **Tech Stack**
 
@@ -97,24 +102,25 @@
 ## 🎓 **Education**
 **SRM Institute of Science and Technology** <br/>
 *B.Tech in Electronics and Communication Engineering (ECE)* | `2025 – 2029`
+<br/> <br/>
+**THE MILLENIUM SCHOOL** <br/>
+*Class 12th graduation* | `2023-2025`
+
+
+<br/>
+<br/>
+<div align="center">
+<h1>> Learning by building. Failing forward. One project at a time.<</h1>
+
+
+
 
 <br/>
 <br/>
 
-## 📊 **GitHub Stats**
 
 <div align="center">
-  <!-- IMPORTANT: Replace YOUR_GITHUB_USERNAME with your actual GitHub username to see this stat card working properly! -->
-  <img src="https://github-readme-stats.vercel.app/api?username=neuralsin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a1a&title_color=FFD700&text_color=ffffff&icon_color=FFD700" alt="GitHub Stats" />
+  <i>SEQ: 00192.48 // UPLINK: ESTABLISHED // RENDER: NATIVE // SYS_CORE: OPTIMIZED</i>
+  <i> REACHED=THE END</i>
 </div>
 
-<br/>
-<br/>
-
-<div align="center">
-  <img src="Running pixel dog.gif" alt="Running Pixel Dog" width="150" />
-</div>
-
-<div align="center">
-  <i>SEQ: 00192.48 // UPLINK: ESTABLISHED // RENDER: WEBGL_NATIVE // SYS_CORE: OPTIMIZED</i>
-</div>
