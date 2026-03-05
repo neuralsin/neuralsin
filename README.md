@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/db/7f/bd/db7fbd872d82998a4daede8412ff2888.gif" alt="Cyberpunk Banner" width="100%" /> 
+<img src="./banner.gif" 
+     alt="Cyberpunk Banner" 
+     style="width:100%; height:auto; display:block; border-radius: 8px;" />
+ 
 
 <br/>
 
