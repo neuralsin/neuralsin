@@ -90,7 +90,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌀 Simulab — WebAssembly Physics Engine</h3>
+      <h3>🌀 VeilShift — WebAssembly Physics Engine</h3>
       <p><b>9.7/10, Quantum Hackathon</b> | React 18 · Vite · C++/WASM (Emscripten) · Zustand</p>
       <ul>
         <li>Built a physics-accurate web simulator for wave optics (Michelson, Mach-Zehnder, Sagnac interferometers), quantum metrology, and gravitational-wave analytics.</li>
@@ -146,12 +146,7 @@
 <br/>
 <br/>
 
-## 🎓 **Education**
-**SRM Institute of Science and Technology** <br/>
-*B.Tech in Electronics and Communication Engineering (ECE)* | `2025 – 2029` | GPA: 9.44/10.0
-<br/> <br/>
-**THE MILLENIUM SCHOOL** <br/>
-*Class 12th graduation* | `2023-2025`
+
 
 
 <br/>
