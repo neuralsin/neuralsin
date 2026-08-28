@@ -45,16 +45,19 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=FFD700" />
@@ -87,6 +90,36 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🌀 Simulab — WebAssembly Physics Engine</h3>
+      <p><b>9.7/10, Quantum Hackathon</b> | React 18 · Vite · C++/WASM (Emscripten) · Zustand</p>
+      <ul>
+        <li>Built a physics-accurate web simulator for wave optics (Michelson, Mach-Zehnder, Sagnac interferometers), quantum metrology, and gravitational-wave analytics.</li>
+        <li>Wrote a high-performance <b>C++ noise engine compiled to WASM</b> for real-time stochastic noise modeling, PSD, and phase-space evolution.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 CorpFlix — GenAI Training-Content Platform</h3>
+      <p>React · TypeScript · Node.js · PostgreSQL · LLM Inference</p>
+      <ul>
+        <li>Converts uploaded corporate documents into structured, role-based training scripts with adjustable tone using LLM inference.</li>
+        <li>Built a quiz + engagement layer to measure comprehension, on top of a defined end-to-end system architecture.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕵️ Deepfake Detectors</h3>
+      <p>Python · PyTorch · Hugging Face Transformers · OpenCV</p>
+      <p>Transformer-based media forensics suite with three detection modules (image, video-frame, audio) using pretrained classifiers, GPU-accelerated inference with automatic CPU fallback.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 CompanionOS — Embodied Desktop Robot</h3>
+      <p>Python · C · C++ · Raspberry Pi · Spotify API</p>
+      <p>Custom OS stack for ambient awareness, voice interaction, and Spotify playback with live lyrics on embedded hardware, plus patch tooling for repeatable display/touch driver fixes.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>👁️ Vision-Tracker Pipeline</h3>
       <p>YOLOv8 · MediaPipe · OpenCV</p>
       <p>Real-time video processing pipeline synchronizing YOLOv8 object detection with MediaPipe Pose estimation, with custom skeletal logic.</p>
@@ -102,9 +135,20 @@
 <br/>
 <br/>
 
+## 📜 **Trainings & Certifications**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford%20Online-8C1515?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithmic%20Toolbox%20(DSA%20in%20C%2B%2B)-UC%20San%20Diego-182B49?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Development-Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
+</div>
+
+<br/>
+<br/>
+
 ## 🎓 **Education**
 **SRM Institute of Science and Technology** <br/>
-*B.Tech in Electronics and Communication Engineering (ECE)* | `2025 – 2029`
+*B.Tech in Electronics and Communication Engineering (ECE)* | `2025 – 2029` | GPA: 9.44/10.0
 <br/> <br/>
 **THE MILLENIUM SCHOOL** <br/>
 *Class 12th graduation* | `2023-2025`
@@ -126,4 +170,3 @@
   <i>SEQ: 00192.48 // UPLINK: ESTABLISHED // RENDER: NATIVE // SYS_CORE: OPTIMIZED</i>
   <i> REACHED=THE END</i>
 </div>
-
