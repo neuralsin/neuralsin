@@ -1,66 +1,58 @@
 <div align="center">
 
 <img src="./banner.gif" 
-     alt="Cyberpunk Banner" 
-     style="width:100%; height:auto; display:block; border-radius: 8px;" />
- 
+  alt="Cyberpunk Banner" 
+  style="width:100%; height:auto; display:block; border-radius: 8px;" />
 
 <br/>
 
-
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2700&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=CURRENTLY_BUILDING%3A++CompanionOS;Hi%2C+I'm+Shaan;Software+Developer+%26+ECE+Student;Engineering+High-Performance+ML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2700&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=CURRENTLY+BUILDING%3A++CompanionOS;Hi%2C+I'm+Shaan;Software+Developer+%26+ECE+Student;Engineering+High-Performance+ML" alt="Typing SVG" />
 </a>
 
 <br/>
 
-*Proactive and adaptable Software Developer and ECE student with a strong foundation in C++, Python, and Full-Stack development. Aiming to leverage expertise in AI/ML and human-computer interaction to deliver innovative technical solutions.*
+*Proactive and adaptable Software Developer and ECE student with a strong foundation in C++, Embedded C, Python, and full-stack development. Focused on AI/ML, embedded systems, and human-computer interaction to build practical technical solutions.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaan-sahai-a938b0387/)
-[![Email](https://img.shields.io/badge/Email-shaansahai2007@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaansahai2007@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Chennai%2C_IN-black?style=for-the-badge&logo=google-maps&logoColor=FFD700)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shaan-sahai-a938b0387/)
+[![Email](https://img.shields.io/badge/Email-shaansahai2007@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shaansahai2007@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Chennai%2C_IN-black?style=for-the-badge\&logo=google-maps\&logoColor=FFD700)](#)
 
 </div>
 
 <br/>
 <br/>
+
 <div align="center">
   <img src="Running pixel dog.gif" alt="Running Pixel Dog" width="150" />
 </div>
+
 <br/>
-<br>
+<br/>
 
 ## 🚀 **Tech Stack**
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=FFD700" />
 </div>
 
 <br/>
@@ -72,63 +64,82 @@
   <tr>
     <td width="50%" valign="top">
       <h3>📈 ML-Driven Quantitative Trading Platform</h3>
-      <p><b>Featured</b> | Python · XGBoost · LSTM · Kite API · React</p>
+      <p><b>Featured</b> | Python · LSTM · Kite API</p>
       <ul>
-        <li>Developed a production-ready trading platform for NSE/BSE with <b>Live Trading</b> via Zerodha Kite API and a <b>Paper Trading</b> simulation environment.</li>
-        <li>Integrated <b>XGBoost with SHAP explainability</b> and <b>LSTM time-series models</b> for predictive stock analysis and FinBERT for sentiment analysis.</li>
-        <li>Built a real-time dashboard featuring <b>Glassmorphism UI</b> and interactive Recharts visualizations.</li>
+        <li>Developed a trading platform for NSE/BSE with <b>Live Trading</b> via Zerodha Kite API and a <b>Paper Trading</b> simulation environment.</li>
+        <li>Integrated predictive time-series models and sentiment analysis for stock analysis.</li>
+        <li>Built a real-time dashboard with interactive market visualizations.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>🧠 P.A.C.E. – Physiological Adaptive Engine</h3>
-      <p><b>Featured</b> | Python · PyTorch · CUDA · OpenCV · FastAPI</p>
-      <ul>
-        <li>Engineered a real-time AR system that monitors heart rate/HRV to manage cognitive load via a custom <b>Cognitive Tempo Engine (CTE)</b> state machine.</li>
-        <li>Developed a <b>Stimulus Attribution Layer (SAL)</b> using Bayesian learning to identify visual stressors and apply <b>GPU-accelerated CUDA kernels</b> for selective blurring.</li>
-      </ul>
-    </td>
+
+```
+<td width="50%" valign="top">
+  <h3>🧠 P.A.C.E. – Physiological Adaptive Engine</h3>
+  <p><b>Featured</b> | Python · FastAPI</p>
+  <ul>
+    <li>Engineered a real-time adaptive system designed to monitor physiological signals and dynamically respond to cognitive load.</li>
+    <li>Developed a stimulus analysis pipeline for identifying visual stressors and adapting the user environment.</li>
+  </ul>
+</td>
+```
+
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3>🌀 VeilShift — WebAssembly Physics Engine</h3>
-      <p><b>9.7/10, Quantum Hackathon</b> | React 18 · Vite · C++/WASM (Emscripten) · Zustand</p>
+      <h3>🌀 VeilShift — Physics Simulation Engine</h3>
+      <p><b>9.7/10, Quantum Hackathon</b> | React · Vite · C++</p>
       <ul>
-        <li>Built a physics-accurate web simulator for wave optics (Michelson, Mach-Zehnder, Sagnac interferometers), quantum metrology, and gravitational-wave analytics.</li>
-        <li>Wrote a high-performance <b>C++ noise engine compiled to WASM</b> for real-time stochastic noise modeling, PSD, and phase-space evolution.</li>
+        <li>Built a physics-based simulator for wave optics, interferometry, quantum metrology, and gravitational-wave analytics.</li>
+        <li>Developed a high-performance C++ simulation engine for real-time stochastic noise modeling and signal analysis.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎬 CorpFlix — GenAI Training-Content Platform</h3>
-      <p>React · TypeScript · Node.js · PostgreSQL · LLM Inference</p>
-      <ul>
-        <li>Converts uploaded corporate documents into structured, role-based training scripts with adjustable tone using LLM inference.</li>
-        <li>Built a quiz + engagement layer to measure comprehension, on top of a defined end-to-end system architecture.</li>
-      </ul>
-    </td>
+
+```
+<td width="50%" valign="top">
+  <h3>🎬 CorpFlix — GenAI Training-Content Platform</h3>
+  <p>Python · TypeScript · PostgreSQL · LLM Inference</p>
+  <ul>
+    <li>Converts uploaded corporate documents into structured, role-based training scripts with adjustable tone using LLM inference.</li>
+    <li>Built a quiz and engagement layer to measure comprehension across generated training content.</li>
+  </ul>
+</td>
+```
+
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>🕵️ Deepfake Detectors</h3>
-      <p>Python · PyTorch · Hugging Face Transformers · OpenCV</p>
-      <p>Transformer-based media forensics suite with three detection modules (image, video-frame, audio) using pretrained classifiers, GPU-accelerated inference with automatic CPU fallback.</p>
+      <p>Python · Machine Learning · Media Forensics</p>
+      <p>Media forensics suite designed to analyze image, video-frame, and audio inputs for synthetic-media detection with automated inference pipelines.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🤖 CompanionOS — Embodied Desktop Robot</h3>
-      <p>Python · C · C++ · Raspberry Pi · Spotify API</p>
-      <p>Custom OS stack for ambient awareness, voice interaction, and Spotify playback with live lyrics on embedded hardware, plus patch tooling for repeatable display/touch driver fixes.</p>
-    </td>
+
+```
+<td width="50%" valign="top">
+  <h3>🤖 CompanionOS — Embedded Desktop Robot</h3>
+  <p>Embedded C · C++ · Python · Raspberry Pi · ESP32 · Spotify API</p>
+  <p>Custom embedded OS stack for ambient awareness, voice interaction, hardware control, and Spotify playback with live lyrics, alongside tooling for repeatable hardware and display fixes.</p>
+</td>
+```
+
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>👁️ Vision-Tracker Pipeline</h3>
-      <p>YOLOv8 · MediaPipe · OpenCV</p>
-      <p>Real-time video processing pipeline synchronizing YOLOv8 object detection with MediaPipe Pose estimation, with custom skeletal logic.</p>
+      <p>Python · Computer Vision</p>
+      <p>Real-time video processing pipeline for object tracking and human pose analysis with custom tracking and skeletal logic.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🖐️ YouTube Gesture Controller</h3>
-      <p>Python · MediaPipe · PyAutoGUI</p>
-      <p>Gesture-based control interface using Hand Landmark Detection and a custom gesture-recognition engine using NumPy.</p>
-    </td>
+
+```
+<td width="50%" valign="top">
+  <h3>🖐️ YouTube Gesture Controller</h3>
+  <p>Python · MediaPipe · PyAutoGUI</p>
+  <p>Gesture-based control interface using hand landmark detection and a custom gesture-recognition engine.</p>
+</td>
+```
+
   </tr>
 </table>
 
@@ -146,22 +157,14 @@
 <br/>
 <br/>
 
-
-
-
-<br/>
-<br/>
 <div align="center">
 <h1>> Learning by building. Failing forward. One project at a time.<</h1>
 
-
-
-
 <br/>
 <br/>
-
 
 <div align="center">
-  
-  <i> REACHED=THE END</i>
+  <i>REACHED=THE END</i>
+</div>
+
 </div>
