@@ -162,6 +162,6 @@
 
 
 <div align="center">
-  <i>SEQ: 00192.48 // UPLINK: ESTABLISHED // RENDER: NATIVE // SYS_CORE: OPTIMIZED</i>
+  
   <i> REACHED=THE END</i>
 </div>
